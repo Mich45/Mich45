@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mich [pronounced 'mike'] and I code 🎉
+# Hi there! 👋 I'm Mich [pronounced 'mike'] and I code 🎉
 
 <!--
 **Mich45/Mich45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
