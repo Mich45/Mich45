@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! 👋 Nice to meet you! I'm Mich and I'm a JavaScript developer 🎉
 </h1>
 
-
 ### I'm a FullStack Software Developer
 
 ## What I'm up to...
@@ -10,7 +9,7 @@
 
 I'm currently learning core web technologies and everything related to JavaScript ✔
 
-## WHat am I doing at the moment ?
+## What am I doing at the moment ?
 
 I'm looking for paid internships or entry-level jobs to have a practical and industry experience of my learnings.
 
