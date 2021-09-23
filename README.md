@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 Nice to meet you! I'm Mich and I'm a JavaScript developer 🎉
 </h1>
 
-### I'm a FullStack Software Developer and a
+### I'm a FullStack Software Developer
 
 ## What am I learning ?
 
