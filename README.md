@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! 👋 Nice to meet you! I'm Mich and I'm a JavaScript developer 🎉
 </h1>
 
-### I'm a FullStack Software Developer
-
-## What I'm up to...
+### I'm a FullStack Software Developer and a
 
 ## What am I learning ?
 
@@ -11,7 +9,7 @@ I'm currently learning core web technologies and everything related to JavaScrip
 
 ## What am I doing at the moment ?
 
-I'm looking for paid internships or entry-level jobs to have a practical and industry experience of my learnings.
+I'm looking for paid internships or entry-level jobs to gather practical and industry experience to boost my expertise and confidence 🚀 .
 
 ## Have a question?
 
@@ -27,4 +25,5 @@ You can reach me via the following media:
 
 ## Fun Facts ⚡
 
-- I'm a Google fan boy
+- I'm a Google fan boy 📣
+
