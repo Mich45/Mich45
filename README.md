@@ -1,23 +1,26 @@
-<h1 align="center">Hi there! 👋 Nice to meet you! I'm Mich and I'm a JavaScript developer 🎉
-</h1>
+<h1 align='center'></h1>
+<img align="center" width="100%" src='./mike.gif'></img>
 
-### I'm a FullStack Software Developer
+<br></br>
 
-## What I'm up to...
+<h1 align='center'>Fullstack Software Developer</h1>
+<br></br>
 
-## What am I learning ?
+# Bio
+My name is Michael Hungbo and I'm a Fullstack Javascript Developer.  
+# What am I learning ?
 
 I'm currently learning core web technologies and everything related to JavaScript ✔
 
-## What am I doing at the moment ?
+# What am I doing at the moment ?
 
 I'm looking for paid internships or entry-level jobs to have a practical and industry experience of my learnings.
 
-## Have a question?
+# Have a question?
 
 I'm particularly open to questions free of toxicity and my personal life. However, you can always ask me anything by reaching me by any of the means in the next section.
 
-## Let's get Social💬
+# Let's get Social💬
 
 You can reach me via the following media:
 
@@ -25,6 +28,6 @@ You can reach me via the following media:
 - LinkedIn: [Michael Hungbo](https://linkedin.com/in/a)
 - Mail: [Send a mail!](mailto:hungbomichael@gmail.com)
 
-## Fun Facts ⚡
+# Fun Facts ⚡
 
 - I'm a Google fan boy
