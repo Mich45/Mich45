@@ -1,8 +1,6 @@
 <h1 align='center'></h1>
 <img align="center" width="100%" src='./Mike.gif'></img>
 
-<br></br>
-
 <h1 align='center'>Fullstack Software Developer</h1>
 <br></br>
 
