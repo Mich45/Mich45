@@ -1,5 +1,5 @@
 <h1 align='center'></h1>
-<div align="center"><img align="center" width="60%" height="100%" src='./Mike.gif'></img></div>
+<div align="center"><img align="center" width="80%" height="100%" src='./Mike.gif'></img></div>
 
 <h1 align='center'>Fullstack Software Developer</h1>
 <br></br>
