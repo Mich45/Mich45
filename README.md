@@ -14,11 +14,7 @@ I'm currently learning core web technologies and everything related to JavaScrip
 
 #### My skillset
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,javascript,ts,docker,py,redux,vercel,styledcomponents" />
-  </a>
-</p>
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,javascript,ts,docker,py,redux,vercel,styledcomponents&theme=light)
 
 #### What am I doing at the moment ?
 
