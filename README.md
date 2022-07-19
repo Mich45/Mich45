@@ -1,16 +1,16 @@
 <h1 align='center'></h1>
 <div align="center"><img align="center" width="70%" height="100%" src='./Mike.gif'></img></div>
 
-<h3 align='center'>Fullstack Software Developer</h3>
+<h3 align='center'>... and a Fullstack Software Developer 🌶</h3>
 <br></br>
 
 #### Bio
 
 Hey there! I'm Michael Hungbo and a Fullstack Javascript Developer.
 
-#### What am I learning ?
+#### What am I up to?
 
-I'm currently learning core web technologies and everything related to JavaScript ✔
+I'm currently learning core web technologies and everything related to JavaScript, Python and technical writing ✔
 
 #### My skillset
 
