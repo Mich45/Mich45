@@ -1,7 +1,7 @@
 <h1 align='center'></h1>
 <div align="center"><img align="center" width="70%" height="100%" src='./Mike.gif'></img></div>
 
-<h3 align='center'>... and a Fullstack Software Developer 🌶</h3>
+<h3 align='center'>...and a Fullstack Software Developer 🌶</h3>
 <br></br>
 
 #### Bio
