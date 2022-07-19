@@ -12,6 +12,14 @@ Hey there! I'm Michael Hungbo and a Fullstack Javascript Developer.
 
 I'm currently learning core web technologies and everything related to JavaScript ✔
 
+#### My skillset
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,javascript,ts,docker,py,redux,vercel,styledcomponents" />
+  </a>
+</p>
+
 #### What am I doing at the moment ?
 
 I'm looking for paid internships or entry-level jobs to gather practical and industry experience to boost my expertise and confidence 🚀 .
