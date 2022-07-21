@@ -4,11 +4,11 @@
 <h3 align='center'>...and a Fullstack Software Developer 🌶</h3>
 <br></br>
 
-#### Bio
+### Bio
 
 Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="16px"> I'm Michael Hungbo and a Fullstack Javascript Developer.
 
-#### What am I up to?
+### What am I up to?
 
 I'm currently learning core web technologies and everything related to JavaScript, Python and technical writing ✔
 
@@ -16,15 +16,15 @@ I'm currently learning core web technologies and everything related to JavaScrip
 
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,javascript,ts,docker,py,redux,vercel,styledcomponents&theme=light)
 
-#### What am I doing at the moment ?
+### What am I doing at the moment?
 
 I'm looking for paid internships or entry-level jobs to gather practical and industry experience to boost my expertise and confidence 🚀 .
 
-#### Have a question?
+### Have a question?
 
 I'm particularly open to questions free of toxicity and my personal life. However, you can always ask me anything by reaching me by any of the means in the next section.
 
-#### Let's get Social💬
+### Let's get Social💬
 
 You can reach me via the following media:
 
@@ -32,6 +32,6 @@ You can reach me via the following media:
 - LinkedIn: [Michael Hungbo](https://linkedin.com/in/a)
 - Mail: [Send a mail!](mailto:hungbomichael@gmail.com)
 
-#### Fun Facts ⚡
+### Fun Facts ⚡
 
 - I'm a Google fan boy 📣
