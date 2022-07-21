@@ -6,7 +6,7 @@
 
 #### Bio
 
-Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="14px">! I'm Michael Hungbo and a Fullstack Javascript Developer.
+Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="16px"> I'm Michael Hungbo and a Fullstack Javascript Developer.
 
 #### What am I up to?
 
