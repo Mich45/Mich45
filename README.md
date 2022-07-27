@@ -22,10 +22,6 @@ I'm looking for paid internships or entry-level jobs to gather practical and ind
 
 ### Have a question?
 
-I'm particularly open to questions free of toxicity and my personal life. However, you can always ask me anything by reaching me by any of the means in the next section.
-
-### Let's get Social💬
-
 You can reach me via the following media:
 
 - Twitter: [@michaelhungbo](https://twitter.com/michaelhungbo)
