@@ -30,7 +30,7 @@ You can reach me via the following media:
 
 - Twitter: [@michaelhungbo](https://twitter.com/michaelhungbo)
 - LinkedIn: [Michael Hungbo](https://linkedin.com/in/a)
-- Mail: [Send a mail!](mailto:hungbomichael@gmail.com)
+- Mail: [Send a mail](mailto:hungbomichael@gmail.com)
 
 ### Fun Facts ⚡
 
