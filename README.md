@@ -31,3 +31,6 @@ You can reach me via the following media:
 ### Fun Facts ⚡
 
 - I'm a Google fan boy 📣
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mich45&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mich45&langs_count=8)](https://github.com/Mich45/github-readme-stats)
