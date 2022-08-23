@@ -1,5 +1,7 @@
+<div>
+<img src="./intro.png"/>
+</div>
 
-<h3 align='center'>...Fullstack Software Developer 🌶</h3>
 <br></br>
 
 ### Bio
