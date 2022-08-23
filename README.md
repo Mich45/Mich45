@@ -1,5 +1,3 @@
-<h1 align='center'></h1>
-<div align="center"><img align="center" width="70%" height="100%" src='./Mike.gif'></img></div>
 
 <h3 align='center'>...Fullstack Software Developer 🌶</h3>
 <br></br>
@@ -33,4 +31,4 @@ You can reach me via the following media:
 - I'm a Google fan boy 📣
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mich45&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mich45&langs_count=8)](https://github.com/Mich45/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mich45&hide=html)](https://github.com/Mich45/github-readme-stats)
