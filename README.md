@@ -10,15 +10,15 @@ Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mas
 
 ### What am I up to?
 
-I'm currently learning core web technologies and everything related to JavaScript, Python and technical writing ✔
+- I'm currently learning core web technologies and everything related to JavaScript, Python and technical writing ✔
 
-#### My skillset
+### My skillset
 
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,javascript,ts,docker,py,redux,vercel,styledcomponents&theme=light)
 
 ### What am I doing at the moment?
 
-I'm looking for paid internships or entry-level jobs to gather practical and industry experience to boost my expertise and confidence 🚀 .
+- I'm looking for paid internships or entry-level jobs to gather practical and industry experience to boost my expertise and confidence 🚀 .
 
 ### Have a question?
 
