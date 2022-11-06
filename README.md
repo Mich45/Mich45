@@ -20,7 +20,7 @@ Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mas
 
 - I'm looking for paid internships or entry-level jobs to gather practical and industry experience to boost my expertise and confidence 🚀 .
 
-### Wanna say hi or got a question? Shoot 🤗
+### Wanna say hi or got me a question? Shoot 🤗
 
 You can reach me via the following media:
 
