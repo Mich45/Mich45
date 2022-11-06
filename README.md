@@ -4,23 +4,23 @@
 
 <br></br>
 
-### Bio
+### About me ✨
 
 Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="16px"> I'm Michael Hungbo, a fullstack javascript developer and technical writer.
 
-### What am I up to?
+### What I am up to...
 
 - I'm currently learning core web technologies and everything related to JavaScript, Python and technical writing ✔
 
-### My skillset
+### My skillset 🛠
 
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,javascript,ts,docker,py,redux,vercel,styledcomponents&theme=light)
 
-### What am I doing at the moment?
+### Career?
 
 - I'm looking for paid internships or entry-level jobs to gather practical and industry experience to boost my expertise and confidence 🚀 .
 
-### Have a question?
+### Wanna say hi or got a question? Shoot 🤗
 
 You can reach me via the following media:
 
