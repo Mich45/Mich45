@@ -1,7 +1,7 @@
-<div align="center">
+<div>
   <a href="https://commit-history.com/Mich45">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Mich45?theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Mich45?theme=light" />
       <img alt="Mich45's commit history" src="https://commit-history.com/embed/Mich45" />
     </picture>
   </a>
