@@ -11,11 +11,11 @@
 
 ### About me ✨
 
-Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="16px"> I'm Michael Hungbo, a fullstack javascript developer and technical writer.
+Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="16px"> I'm Michael Hungbo, a software engineer and technical writer.
 
 ### What I am up to...
 
-- I'm currently learning core web technologies and everything related to JavaScript, Python and Technical writing.
+- I'm currently learning core web technologies and everything related to JavaScript, Python and Technical Writing.
 
 ### My skillset 🛠
 
@@ -28,10 +28,6 @@ You can reach me via the following media:
 - Twitter: [@michaelhungbo](https://twitter.com/michaelhungbo)
 - LinkedIn: [Michael Hungbo](https://linkedin.com/in/a)
 - Mail: [Send a mail](mailto:hungbomichael@gmail.com)
-
-### Fun Facts ⚡
-
-- I'm a Google fan boy 📣
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mich45&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mich45&hide=html)](https://github.com/Mich45/github-readme-stats)
